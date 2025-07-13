@@ -33,7 +33,7 @@ export default function Chatbot() {
         sender: "bot",
       },
       {
-        text: "Emily this side. Let’s find out if you qualify for the $5800 Spending Allowance — it’s quick and only takes 2 minutes!",
+        text: "Sandra this side. Let’s find out if you qualify for the $5800 Spending Allowance — it’s quick and only takes 2 minutes!",
         sender: "bot",
         time: new Date().toTimeString(),
       },
